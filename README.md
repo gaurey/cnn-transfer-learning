@@ -35,7 +35,7 @@ cd cnn-transfer-learning
 
 > \*\*GPU recommended\*\* — on CPU, each strategy takes \~30 min per 20 epochs.  
 > On Google Colab (free GPU), each strategy takes \~2–3 min.  
->[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gaurey/cnn-transfer-learning/blob/main/notebook/transfer_learning_tutorial.ipynb)
+
 
 ### 3\. Run the notebook
 
