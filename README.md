@@ -73,7 +73,6 @@ Original dataset: https://www.robots.ox.ac.uk/\~vgg/data/flowers/102/
 ## Accessibility
 
 * All figures use the **Okabe-Ito colourblind-safe palette**
-* Alt-text descriptions are included as comments in all figure-generating cells
 * The PDF tutorial uses high-contrast colours and is structured for screen readers
 
 \---
